@@ -8,4 +8,4 @@ This is a collection of links and source material for the AI Testbot talk I have
 - [Deploying Search Based Software
 Engineering with Sapienz at Facebook](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99241-9_1.pdf)
 - [We Need a Testability Transformation Semantics - Facebook Research](https://research.fb.com/publications/we-need-a-testability-transformation-semantics/)
-- [Google Präsentationen: Kostenlos Präsentationen online erstellen und bearbeiten](https://docs.google.com/presentation/d/1R1B396rCfCAhIi_CC4NIOXf-IuaO-nuP6liB5bWPV4E/edit#slide=id.g2e3f398fe2_0_555)
+
